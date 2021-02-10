@@ -1,0 +1,41 @@
+.container {
+  max-width: 375px;
+  padding: 30px 10px 0px;
+}
+
+.avatar {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 12px;
+}
+
+.name {
+  font-size: 14px;
+}
+
+.location {
+  font-size: 10px;
+  margin-bottom: 12px;
+}
+
+.metrics {
+  margin-bottom: 32px;
+}
+
+.metric {
+  height: 52px;
+  width: 78px;
+  margin: 0 8px;
+}
+
+.metric .number {
+  font-size: 12px;
+}
+
+.metric .lower {
+  font-size: 12px;
+}
+
+.photos {
+  gap: 14px;
+}
